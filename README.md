@@ -6,4 +6,4 @@ if you want to remove the checks yourself then download DnSpy [https://github.co
 chuck in the original Mod Assistant into dnspy goto whats shown here [https://i.imgur.com/a3nxek6.png]
 and with a right click c# methods return false [https://i.imgur.com/UHbIVNy.png] and then click file, save all.
 
-[Check out - https://github.com/Slied1961/BeatSaber-IPA-Reloaded-Patched]
+Check out - [https://github.com/Slied1961/BeatSaber-IPA-Reloaded-Patched]
