@@ -1,0 +1,1 @@
+"Piracy is bad, unlike handing out massive amounts of copyrighted music"
