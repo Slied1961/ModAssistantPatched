@@ -7,3 +7,5 @@ chuck in the original Mod Assistant into dnspy goto whats shown here [https://i.
 and with a right click c# methods return false [https://i.imgur.com/UHbIVNy.png] and then click file, save all.
 
 Check out - [https://github.com/Slied1961/BeatSaber-IPA-Reloaded-Patched]
+
+Join my discord for support or questions - https://discord.gg/fd3Z8B9
